@@ -1,0 +1,19 @@
+{
+  "template": "https://github.com/joaompinto/PythonCookiecutter.git",
+  "commit": "48cd846f8e2ea2bddb95e3f70fe87a16c3ce7a5d",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "directory_name": "pywinrdp",
+      "package_name": "pywinrdp",
+      "author_name": "João Pinto",
+      "author_email": "lamego.pinto@gmail.com",
+      "repository_url": "https://github.com/joaompinto/pywinrdp",
+      "_copy_without_render": [
+        "*.yaml"
+      ],
+      "_template": "https://github.com/joaompinto/PythonCookiecutter.git"
+    }
+  },
+  "directory": null
+}
